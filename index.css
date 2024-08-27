@@ -1,0 +1,143 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.bgheight {
+    height: 100%;
+  }
+.bg {
+  background-image: url(./images/bg.png);
+  height:100vh;
+  background-position: center;
+  background-position: center;
+  background-size: cover;
+  filter: brightness(0.7);
+}
+
+.container2 {
+  text-align: center;
+  width: 30vw;
+  color: #111;
+  background-color: rgba(255, 255, 255, 0.765);
+  height: 38vh;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  top: 15rem;
+}
+.text h2 {
+  color: gold;
+  font-size: 60px;
+}
+.circleCSS {
+  width: 20px;
+  height: 20px;
+  background-color: black;
+}
+.bgDark {
+  height: auto;
+  width: 100%;
+
+}
+ .container-fluid{
+  background:rgb(0.5, 0.5,0.5);
+  background: rgba(255, 255, 255, 0.765);
+  margin:0;
+  position: relative;
+  bottom: 610px;
+ }
+ .container1{
+  background-color: floralwhite;
+  background:rgb(0.5, 0.5,0.5);
+  background: rgba(255, 255, 255, 0.765);
+  margin-top:170px;
+ }
+ .img{
+  width: 50px;
+  height: 50px;
+  border: solid 2px black;
+  background-color: purple;
+  border-radius: 50%;
+  padding-top: 15px;
+  margin-left: 23px;
+  margin-top: 67px;
+ }
+ .circle{
+  width: 50px;
+  height: 50px;
+  border: solid 2px solid;
+  background-color: black;
+  border-radius:50%;
+}
+.RecBG {
+  position: relative;
+  background-image: url(./images/RecBG.png);
+  width: 100%;
+  height: 615px;
+  background-size: cover;
+  background-position: center;
+}
+.RecSection {
+  top: 25%;
+}
+.elipse {
+  background-image: url(./images/chicken\ tikka);
+  height: 52px;
+  width: 70px;
+  border-radius: 100%;
+  background-size: cover;
+}
+.elipse1 {
+  background-image: url(./images/papad);
+  height: 52px;
+  width: 70px;
+  border-radius: 100%;
+  background-size: cover;
+}
+.elipse2 {
+  background-image: url(./images/chicken\ curry);
+  height: 52px;
+  width: 70px;
+  border-radius: 100%;
+  background-size: cover;
+}
+.elipse3 {
+  background-image: url(./images/soup\ of\ the\ dry);
+  height: 52px;
+  width: 70px;
+  border-radius: 100%;
+  background-size: cover;
+}
+.elipse4 {
+  background-image: url(./images/yellow\ curry);
+  height: 52px;
+  width: 70px;
+  border-radius: 100%;
+  background-size: cover;
+}
+.elipse5 {
+  background-image: url(./images/spicy\ meatballs);
+  height: 52px;
+  width: 70px;
+  border-radius: 100%;
+  background-size: cover;
+}
+.receFont {
+  font-size: 12px;
+  width: 60%;
+}
+
+.container-rr{
+  height:585px;
+  background-color:seashell;
+}
+a{
+  text-decoration-color: brown;
+  text-decoration-thickness: 5px;
+  color: #111;
+}
+.card-body{
+  padding: 0 ;
+}         
